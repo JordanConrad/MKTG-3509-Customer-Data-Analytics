@@ -1,6 +1,6 @@
 # MKTG-3509-Customer-Data-Analytics
 ---
-This portfolio consists of every assignment I completed in my Marketing 3509, Customer Data Analytics Class. Throughout the semester I worked on 11 assignments, each for a different module.
+This portfolio consists of every assignment I completed in my Marketing 3509, Customer Data Analytics Class. Throughout the semester I worked on 11 assignments, each for a different module. Each module helped with the next one and lead me to have a better understanding of what I was doing.
 ## My Résumé
 ---
 - [Jordan Conrad's Resume](https://colab.research.google.com/drive/1flX3xJJvoC4JNEVS1IGpyklT-vjliqX6)
