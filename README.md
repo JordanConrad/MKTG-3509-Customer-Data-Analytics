@@ -27,4 +27,4 @@ This portfolio consists of every assignment I completed in my Marketing 3509, Cu
 10. **Module 10: Text Analysis**
   - [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1gJMgxjAeZUUDwxkrK_zE68DfnEyJT8Ti)
 11. **Module 11: Use GitHub To Create Your Assignment Portfolio**
-  - [A11 Use GitHub To Create Your Assignment Portfolio]()
+  - [A11 Use GitHub To Create Your Assignment Portfolio](https://github.com/JordanConrad/MKTG-3509-Customer-Data-Analytics/blob/main/README.md)
